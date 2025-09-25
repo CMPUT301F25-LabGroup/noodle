@@ -1,0 +1,2 @@
+public abstract class star extends Shape{
+}
