@@ -1,2 +1,2 @@
-public abstract class star extends Shape{
+public class star extends Shape{
 }
